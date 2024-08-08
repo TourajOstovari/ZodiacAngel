@@ -1,0 +1,14 @@
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\bin\Debug\net8.0\Zodiac.exe
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\bin\Debug\net8.0\Zodiac.deps.json
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\bin\Debug\net8.0\Zodiac.runtimeconfig.json
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\bin\Debug\net8.0\Zodiac.dll
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\bin\Debug\net8.0\Zodiac.pdb
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.AssemblyInfoInputs.cache
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.AssemblyInfo.cs
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.dll
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\refint\Zodiac.dll
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.pdb
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\Zodiac.genruntimeconfig.cache
+C:\Users\TourajOstovari\Desktop\Zodiac\Zodiac\Zodiac\Zodiac\obj\Debug\net8.0\ref\Zodiac.dll
